@@ -1,5 +1,5 @@
 ## Description
-The participants of the Winter School of Handwritten Text Recognition of Medieval Manuscripts Latin / Greek / Czech, Byzantine Greek Group, trained the Transkribus model "15th c. liturgical" for Byzantine Greek. The model was trained from images of the codex Dresden, SLUB A. 151.
+The participants of the Winter  Byzantine Greek Group, trained the Transkribus model "15th c. liturgical" for Byzantine Greek. The model was trained from images of the codex Dresden, SLUB A. 151.
 This repository contains a) transcriptions from 66 images set as "ground truth" and b) automatic transcriptions from the rest of the pages (to added later). The automatic transcriptions have an error rate of 22,3%. The errors are mostly wrong accents and breathings. To enhance searchability despite the erroneous transcription, try fuzzy search. Alternatively, you can remove the accents from the txt file (e.g. https://dev.to/djemos/removeaccents-py-5dmd).
 
 ### Origin of the data:
